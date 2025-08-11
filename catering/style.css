@@ -1,0 +1,22 @@
+#banner{
+    height: 800px;
+}
+#card1{
+    margin: 10px auto;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+}
+#sandwich{
+    padding: 40px;
+}
+#card2{
+    margin: 50px auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: none;
+}
+.card-img{
+    height: 800px;
+}
